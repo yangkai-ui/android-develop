@@ -1,9 +1,0 @@
-<resources>
-    <string name="app_name">ArrayList</string>
-    <string-array name="myarray">
-        <item>语文</item>
-        <item>英语</item>
-        <item>数学</item>
-    </string-array>
-
-</resources>
